@@ -1,1 +1,1 @@
-# oracle_ipv6
+# 甲骨文云Ubuntu或者Debian自动获取ipv6脚本
